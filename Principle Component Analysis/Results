@@ -1,0 +1,5 @@
+Prior to running PCA analysis on the breast cancer data set, the logistic regression model performed with a weighted average for precision, recall, and f1-score of 0.94, 0.94, and 0.94, respectively. 
+The SVM model performed with the exact same weighted averages. 
+
+After using PCA analysis, the logistic regression model improved to a value of 0.99 for all three metrics. 
+The SVM model improved by slightly less, harboring a value of 0.96 for the three metrics. 
